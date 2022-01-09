@@ -1,0 +1,2 @@
+This is a placeholder.
+Normally a .pt, .pickle or any other files like that with weights or entire saved models will be situated here.
